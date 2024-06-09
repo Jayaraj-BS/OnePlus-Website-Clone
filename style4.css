@@ -1,0 +1,253 @@
+#oneplusR{
+    position: absolute;
+    left: 1030px;
+    top: 160px;
+    height: 300px;
+    width: 300px;
+    transition-duration: 4s;
+}
+#oneplusR:hover{
+    transform: scale(1.1);
+}
+
+#onep2t{
+    position: absolute;
+    left: 630px;
+    top: 140px;
+    height: 300px;
+    width: 300px;
+    transition-duration: 4s;
+}
+#onep2t:hover{
+    transform: scale(1.2);
+}
+#onepT{
+    position: absolute;
+    left: 230px;
+    top: 170px;
+    height: 300px;
+    width: 300px;
+    transition-duration: 4s;
+}
+#onepT:hover{
+    transform: scale(1.2);
+}
+#serieshead{
+    position: absolute;
+    left:50px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+}
+#oneplusR1{
+    position: absolute;
+    left: 1070px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#onep2t2{
+    position: absolute;
+    left: 670px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#onepT2{
+    position: absolute;
+    left: 270px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#check1{
+    font-size: 30px;
+    font-weight: normal;
+    position: absolute;
+    left: 50px;
+    position: fixed;
+}
+#check2{
+    font-size: 30px;
+    font-weight: normal;
+    position: absolute;
+    left: 50px;
+    position: fixed;
+}
+.checklarge{
+    height: 25px;
+    width: 25px;
+    position: fixed;
+}
+#offers{
+    position: absolute;
+    left:50px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+}
+#check3{
+    font-size: 30px;
+    font-weight: normal;
+    position: absolute;
+    left: 50px;
+    position: fixed;
+}
+#check4{
+    font-size: 30px;
+    font-weight: normal;
+    position: absolute;
+    left: 50px;
+    position: fixed;
+}
+#Rprice{
+    position: absolute;
+    left: 1090px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+#tprice{
+    position: absolute;
+    left: 680px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+#ttprice{
+    position: absolute;
+    left: 270px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+#nine{
+    position: absolute;
+    left: 1040px;
+    height: 200px;
+    transition-duration: 4s;
+}
+#nine:hover{
+    transform: scale(1.1);
+}
+#ninepro{
+    position: absolute;
+    left: 640px;
+    height: 200px;
+    transition-duration: 4s;
+}
+#ninepro:hover{
+    transform: scale(1.2);
+}
+#niner{
+    position: absolute;
+    left: 260px;
+    height: 200px;
+    transition-duration: 4s;
+}
+#niner:hover{
+    transform: scale(1.2);
+}
+#ninetitle{
+    position: absolute;
+    left: 1050px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#nineprotitle{
+    position: absolute;
+    left: 650px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ninertitle{
+    position: absolute;
+    left: 280px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#nineprice{
+    position: absolute;
+    left: 1090px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+#nineproprice{
+    position: absolute;
+    left: 680px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+#ninerprice{
+    position: absolute;
+    left: 270px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+
+#tenr{
+    position: absolute;
+    left: 1040px;
+    height: 280px;
+    transition-duration: 4s;
+}
+#tenr:hover{
+    transform: scale(1.2);
+}
+#tent{
+    position: absolute;
+    left: 770px;
+    height: 250px;
+    transition-duration: 4s;
+}
+#tent:hover{
+    transform: scale(1.2);
+}
+#tenpro{
+    position: absolute;
+    left: 260px;
+    height: 280px;
+    transition-duration: 4s;
+}
+#tenpro:hover{
+    transform: scale(1.2);
+}
+#tenrtitle{
+    position: absolute;
+    left: 1090px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tenttitle{
+    position: absolute;
+    left: 670px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tenprotitle{
+    position: absolute;
+    left: 280px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tenrprice{
+    position: absolute;
+    left: 1090px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+#tentprice{
+    position: absolute;
+    left: 680px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+#tenproprice{
+    position: absolute;
+    left: 270px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
